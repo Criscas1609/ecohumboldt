@@ -48654,7 +48654,7 @@ q=!p?new A.oL(q):l
 o=s.c
 n=t.p
 m=this.a
-return A.Tf(A.cM(A.b([A.kn(B.bK,A.b([k,A.akK(0,A.cM(A.b([A.bY(l,A.aGj(B.lp,q,p?B.RL:l,55),B.o,l,new A.bp(l,l,l,l,r,B.SR,B.bz),l,l,l,B.QN,l,l,l),B.kt,A.b3(o,l,l,l,l,B.abZ,l,l),B.dq,A.b3(s.b,l,l,l,l,B.abp,l,l),B.hA],n),B.x,B.he,B.z))],n),B.H,B.c9,l),B.hA,new A.bT(B.dD,A.d1(A.b([A.ev(m.Hp("Puntos",""+s.d,B.mP,B.J),1),B.dn,A.ev(m.Hp("Racha",""+s.y+" d\xedas",B.rq,B.a4C),1),B.dn,A.ev(m.Hp("Gramos",""+s.x+" g",B.iF,B.dj),1)],n),B.x,B.w,B.z,0),l),B.fe,new A.bT(B.dD,A.cM(A.b([new A.dX(B.ea,l,l,new A.bT(B.Qr,A.b3("Informaci\xf3n Personal",l,l,l,l,B.oD,l,l),l),l),m.Go("Nombre",o,B.eA),m.Go("Documento",s.r+" - "+s.f,B.rp),m.Go("Facultad",s.w,B.rt)],n),B.x,B.w,B.z),l),B.fe,m.a7j(this.c,s),B.a9s],n),B.x,B.w,B.z),l,B.a5,l,l,B.aJ)},
+return A.Tf(A.cM(A.b([A.kn(B.bK,A.b([k,A.akK(0,A.cM(A.b([A.bY(l,A.aGj(B.lp,q,p?B.RL:l,55),B.o,l,new A.bp(l,l,l,l,r,B.SR,B.bz),l,l,l,B.QN,l,l,l),B.kt,A.b3(o,l,l,l,l,B.abZ,l,l),B.dq,A.b3(s.b,l,l,l,l,B.abp,l,l),B.hA],n),B.x,B.he,B.z))],n),B.H,B.c9,l),B.hA,new A.bT(B.dD,A.d1(A.b([A.ev(m.Hp("Puntos",""+s.d,B.mP,B.J),1),B.dn,A.ev(m.Hp("Racha",""+s.y+" d\xedas",B.rq,B.a4C),1),B.dn,A.ev(m.Hp("Gramos",""+s.x+" g",B.iF,B.dj),1)],n),B.x,B.w,B.z,0),l),B.fe,new A.bT(B.dD,A.cM(A.b([new A.dX(B.ea,l,l,new A.bT(B.Qr,A.b3("Informaci\xf3n Personal",l,l,l,l,B.oD,l,l),l),l),m.Go("Nombre",o,B.eA),m.Go("Documento",s.f,B.rp),m.Go("Facultad",s.w,B.rt)],n),B.x,B.w,B.z),l),B.fe,m.a7j(this.c,s),B.a9s],n),B.x,B.w,B.z),l,B.a5,l,l,B.aJ)},
 $S:142}
 A.akW.prototype={
 $0(){var s=A.oF(new A.akV(),null,t.z)
