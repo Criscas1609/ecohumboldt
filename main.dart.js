@@ -48149,7 +48149,7 @@ $1(a){return B.a7g},
 $S:406}
 A.tq.prototype={
 af(){var s=$.aG(),r=t.s
-return new A.a_I(new A.iz(B.cV,s),new A.iz(B.cV,s),new A.iz(B.cV,s),new A.iz(B.cV,s),A.b(["C\xe9dula de Ciudadan\xeda","Tarjeta de Identidad","Pasaporte","C\xe9dula de Extranjer\xeda","Otro"],r),A.b(["Administraci\xf3n de Empresas","Administrativo","Derecho","Docente","Enfermer\xedaIngenier\xeda Industrial","Ingenier\xeda de Software","Ingenier\xeda Civil",u.N,"Medicina","Medicina Veterinaria y zootecnia","Psicolog\xeda",u.H],r))}}
+return new A.a_I(new A.iz(B.cV,s),new A.iz(B.cV,s),new A.iz(B.cV,s),new A.iz(B.cV,s),A.b(["C\xe9dula de Ciudadan\xeda","Tarjeta de Identidad","Pasaporte","C\xe9dula de Extranjer\xeda","Otro"],r),A.b(["Administraci\xf3n de Empresas","Administrativo","Derecho","Docente","Enfermer\xeda","Ingenier\xeda Industrial","Ingenier\xeda de Software","Ingenier\xeda Civil",u.N,"Medicina","Medicina Veterinaria y zootecnia","Psicolog\xeda",u.H],r))}}
 A.a_I.prototype={
 J(a){var s,r,q=this,p=null,o=A.al3(a,!1,t.b0),n=A.bL(a,p,t.l).w,m=A.bC(20),l=A.adZ("assets/images/logo.png",n.a.a<600?90:120),k=A.n4(q.f,A.la(p,new A.eh(4,A.bC(12),B.bX),p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Nombre completo",!0,!0,p,B.RN,p,p,p,p,p,p,p,p,p,p,p,p),p,!1),j=q.w,i=A.la(p,new A.eh(4,A.bC(12),B.bX),p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,"Tipo de identificaci\xf3n",!0,!0,p,B.RL,p,p,p,p,p,p,p,p,p,p,p,p),h=q.z,g=A.V(h).i("Y<1,iZ<k>>")
 n=A.W(new A.Y(h,new A.azL(),g),g.i("ag.E"))
